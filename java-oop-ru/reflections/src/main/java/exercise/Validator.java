@@ -25,21 +25,21 @@ public class Validator {
     public static Map<String, List<String>> advancedValidate(exercise.Address address) {
         Map<String, List<String>> invalidFields = new HashMap<>();
         String notNullError = "can not be null";
-        String minLengthError = "length less than 4";
+        String minLengthError = "length less than ";
         try {
             Field[] fieldArray = address.getClass().getDeclaredFields();
             for (Field field : fieldArray) {
                 field.setAccessible(true);
                 if (field.isAnnotationPresent(exercise.NotNull.class) && Objects.equals(field.get(address), null)) {
                     if (field.isAnnotationPresent(exercise.MinLength.class)) {
-                        invalidFields.put(field.getName(), List.of(notNullError, minLengthError));
+                        invalidFields.put(field.getName(), List.of(notNullError, minLengthError + field.getDeclaredAnnotation(exercise.MinLength.class).minLength()));
                     } else {
                         invalidFields.put(field.getName(), List.of(notNullError));
                     }
                 } else if (field.isAnnotationPresent(exercise.MinLength.class)) {
                     String str = (String) field.get(address);
                     if (str.length() < field.getDeclaredAnnotation(exercise.MinLength.class).minLength()) {
-                        invalidFields.put(field.getName(), List.of(minLengthError));
+                        invalidFields.put(field.getName(), List.of(minLengthError + field.getDeclaredAnnotation(exercise.MinLength.class).minLength()));
                     }
                 }
             }

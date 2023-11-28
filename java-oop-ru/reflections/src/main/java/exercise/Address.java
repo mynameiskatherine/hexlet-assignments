@@ -9,6 +9,7 @@ class Address {
 
     // BEGIN
     @exercise.NotNull
+    @exercise.MinLength(minLength = 2)
     // END
     private String city;
 
