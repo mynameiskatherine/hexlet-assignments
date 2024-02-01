@@ -29,7 +29,7 @@ public class SessionsController {
 
         var error = "Wrong username or password";
         try {
-            var login = ctx.formParamAsClass("login", String.class)
+            var login = ctx.formParamAsClass("name", String.class)
                     .check(l -> UsersRepository.existsByName(l), error)
                     .get();
             var user = UsersRepository.findByName(login);
@@ -37,9 +37,10 @@ public class SessionsController {
                     .check(p -> (Security.encrypt(p)).equals(user.getPassword()), error)
                     .get();
             ctx.sessionAttribute("currentUser", login);
+            ctx.status(302);
             ctx.redirect(NamedRoutes.rootPath());
         } catch (ValidationException e) {
-            var page = new LoginPage(ctx.formParam("login"), error);
+            var page = new LoginPage(ctx.formParam("name"), error);
             ctx.render("build.jte", Collections.singletonMap("page", page));
         }
     }

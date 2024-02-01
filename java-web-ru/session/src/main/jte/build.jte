@@ -12,7 +12,7 @@ content = @`
         @endif
         <div>
             <form action="${NamedRoutes.loginPath()}" method="post">
-                <input type="text" placeholder="Login" name="login" value="${page.getName()}"/>
+                <input type="text" placeholder="Login" name="name" value="${page.getName()}"/>
                 <input type="password" placeholder="Password" name="password" />
                 <input type="Submit" value="Log in"/>
             </form>

@@ -10,13 +10,13 @@ content = @`
         <p>Welcome, ${page.getName().toString()}</p>
         <p>To exit press the button below</p>
         <form action="${NamedRoutes.logoutPath()}" method="post">
-            <input type="submit" value="SIGN OUT">
+            <input type="submit" value="Выйти">
         </form>
     @else
         <p>Welcome</p>
         <p>To enter press the button below</p>
         <form action="${NamedRoutes.buildSessionPath()}" method="get">
-            <button>LOG IN</button>
+            <button>Войти</button>
         </form>
     @endif
     </div>
