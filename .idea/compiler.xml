@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.28/a2ff5da8bcd8b1b26f36b806ced63213362c6dcc/lombok-1.18.28.jar" />
+        </processorPath>
+        <module name="database.main" />
+        <module name="database.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="advanced-streams" target="20" />
+      <module name="advanced-streams.main" target="20" />
+      <module name="advanced-streams.test" target="20" />
+      <module name="crud" target="20" />
+      <module name="crud.main" target="20" />
+      <module name="crud.test" target="20" />
+      <module name="exercise.mvc" target="20" />
+      <module name="exercise.mvc.main" target="20" />
+      <module name="exercise.mvc.test" target="20" />
+      <module name="get-form" target="20" />
+      <module name="get-form.main" target="20" />
+      <module name="get-form.test" target="20" />
+      <module name="layout" target="20" />
+      <module name="layout.main" target="20" />
+      <module name="layout.test" target="20" />
+      <module name="mvc" target="20" />
+      <module name="mvc.main" target="20" />
+      <module name="mvc.test" target="20" />
+      <module name="post-form" target="20" />
+      <module name="post-form.main" target="20" />
+      <module name="post-form.test" target="20" />
+      <module name="session" target="20" />
+      <module name="session.main" target="20" />
+      <module name="session.test" target="20" />
+      <module name="template" target="20" />
+      <module name="template.main" target="20" />
+      <module name="template.test" target="20" />
+      <module name="validation" target="20" />
+      <module name="validation.main" target="20" />
+      <module name="validation.test" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

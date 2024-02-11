@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/advanced-streams/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/advanced-streams/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/advanced-streams/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/generics/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/generics/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/generics/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/lambdas/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/lambdas/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/lambdas/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/lists/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/lists/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/lists/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/maps/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/maps/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/maps/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/other-collections/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/other-collections/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/other-collections/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/streams/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/streams/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/streams/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/tests/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-collections-ru/tests/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/classes-and-objects/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/classes-and-objects/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/classes-and-objects/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/code-generation/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/code-generation/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/code-generation/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/errors/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/errors/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/errors/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/inheritance/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/inheritance/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/inheritance/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/interfaces/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/interfaces/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/interfaces/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/patterns/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/patterns/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/patterns/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/reflections/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/reflections/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/reflections/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/subtyping/examples" isTestSource="false" packagePrefix="exercise" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/subtyping/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-oop-ru/subtyping/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/dynamic-routes/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/dynamic-routes/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/dynamic-routes/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/handlers/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/handlers/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/handlers/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/http-session/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/http-session/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/http-session/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/javalin-intro/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/javalin-intro/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/javalin-intro/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/template/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/template/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-web-ru/template/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: net.datafaker:datafaker:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.javalin:javalin:5.6.2" level="project" />
+  </component>
+</module>

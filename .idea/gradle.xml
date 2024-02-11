@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/advanced-streams" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/advanced-streams" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/generics" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/generics" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/lambdas" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/lambdas" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/lists" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/lists" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/maps" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/maps" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/other-collections" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/other-collections" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/streams" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/streams" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-collections-ru/tests" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-collections-ru/tests" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/classes-and-objects" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/classes-and-objects" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/code-generation" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/code-generation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/errors" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/errors" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/inheritance" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/inheritance" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/interfaces" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/interfaces" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/patterns" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/patterns" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/reflections" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/reflections" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oop-ru/subtyping" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oop-ru/subtyping" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/cookies" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/cookies" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/crud" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/crud" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/database" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/database" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/dynamic-routes" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/dynamic-routes" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/flash" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/flash" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/get-form" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/get-form" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/handlers" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/handlers" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/http-session" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/http-session" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/javalin-intro" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/javalin-intro" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/layout" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/layout" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/mvc" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/mvc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/post-form" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/post-form" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/session" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/session" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/template" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/template" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-web-ru/validation" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-web-ru/validation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
