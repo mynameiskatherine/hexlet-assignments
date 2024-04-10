@@ -2,6 +2,7 @@ package exercise;
 
 import java.net.URI;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -29,7 +30,40 @@ public class Application {
     }
 
     // BEGIN
-    
+    @GetMapping("/posts")
+    ResponseEntity<List<Post>> index() {
+        return ResponseEntity.ok()
+                .header("X-Total-Count", String.valueOf(posts.size()))
+                .body(posts);
+    }
+
+    @GetMapping("/posts/{id}")
+    ResponseEntity<Post> show(@PathVariable String id) {
+        return ResponseEntity.of(posts.stream().filter(p -> p.getId().equals(id)).findFirst());
+    }
+
+    @PostMapping("/posts")
+    ResponseEntity<Post> create(@RequestBody Post post) {
+        posts.add(post);
+        return ResponseEntity.status(HttpStatus.CREATED)
+                .body(post);
+    }
+
+    @PutMapping("/posts/{id}")
+    ResponseEntity<Post> update(@PathVariable String id, @RequestBody Post newPost) {
+        Optional<Post> potentialPost = posts.stream().filter(p -> p.getId().equals(id)).findFirst();
+        if (potentialPost.isPresent()) {
+            Post post = potentialPost.get();
+            post.setId(newPost.getId());
+            post.setTitle(newPost.getTitle());
+            post.setBody(newPost.getBody());
+            return ResponseEntity.ok()
+                    .body(newPost);
+        } else {
+            return ResponseEntity.status(204)
+                    .body(newPost);
+        }
+    }
     // END
 
     @DeleteMapping("/posts/{id}")
